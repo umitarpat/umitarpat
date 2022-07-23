@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/umitarpat/">
   <img align="left" alt="Ümit Arpat LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/umitarpat">
-  <img align="left" alt="Ümit Arpat Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umitarpat.umitarpat)
 
