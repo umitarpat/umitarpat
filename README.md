@@ -49,7 +49,5 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 📈 my github stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitarpat&show_icons=true&locale=en&layout=compact" alt="umitarpat" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umitarpat&show_icons=true&theme=gotham" alt="umitarpat" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitarpat&" alt="umitarpat" /></p>
 
