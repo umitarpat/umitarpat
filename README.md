@@ -6,7 +6,7 @@
   <img align="left" alt="Ümit Arpat LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br /><br />
 
 hi, i'm [Ümit](https://umitarpat.com/), I am 29 years old and ı do web development. Predominatly ı am a front end developer. I love ı do my job, ı am ready for new a project development. What about you? 
 
