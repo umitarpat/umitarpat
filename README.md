@@ -6,11 +6,11 @@
   <img align="left" alt="Ümit Arpat LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=umitarpat.umitarpat)
+![](https://komarev.com/ghpvc/?username=umitarpat&color=green)
 
 <br />
 
-hi, i'm [Ümit](https://umitarpat.com/), I am 28 years old and ı do web development. Predominatly ı am a front end developer. I love ı do my job, ı am ready for new a project development. What about you? 
+hi, i'm [Ümit](https://umitarpat.com/), I am 29 years old and ı do web development. Predominatly ı am a front end developer. I love ı do my job, ı am ready for new a project development. What about you? 
 
 In the continuation this profile, you can see what technologies I'm using, what I'm doing.
 
