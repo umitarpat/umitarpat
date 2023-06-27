@@ -27,6 +27,3 @@
 <p><a href="https://ko-fi.com/umitarpat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="umitarpat" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitarpat&show_icons=true&locale=en&layout=compact" alt="umitarpat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitarpat&show_icons=true&locale=en" alt="umitarpat" /></p>
-
