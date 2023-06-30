@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Odeon Software Technology**
 
-- 👨‍💻 All of my projects are available at [umitarpat.com](umitarpat.com)
+- 👨‍💻 All of my projects are available at [umitarpat.com](http://umitarpat.com)
 
 - 💬 Ask me about **javascript,typescript,react,vue and front end development**
 
