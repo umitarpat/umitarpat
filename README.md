@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umitarpat&label=Profile%20views&color=0e75b6&style=flat" alt="umitarpat" /> </p>
 
-- 🔭 I’m currently working on **Odeon Software Technology**
-
 - 👨‍💻 All of my projects are available at [umitarpat.com](http://umitarpat.com)
 
 - 💬 Ask me about **javascript,typescript,react,vue and front end development**
